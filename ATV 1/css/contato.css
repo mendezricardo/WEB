@@ -1,0 +1,26 @@
+img.topo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer{
+  background: #800000;
+  color: #FFF;
+  text-align: center;
+  position: relative;
+  min-height: 100%;
+}
+
+#contato{
+  font-family: Arial, Sans-Serif;
+    font-size: 13px;
+    margin-bottom: 5px;
+    display: block;
+    padding: 4px;
+    border: solid 1px #85b1de;
+    width: 300px;
+    background-color: #EDF2F7;
+    margin: 0 auto;
+    width: 400px;
+}

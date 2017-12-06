@@ -1,0 +1,24 @@
+img.topo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer{
+  background: #800000;
+  color: #FFF;
+  text-align: center;
+  position: relative;
+  min-height: 100%;
+}
+
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*Efeito de alternar cores, linhas pares*/
+tr:nth-child(even) {
+    background-color: #dddddd;
+}

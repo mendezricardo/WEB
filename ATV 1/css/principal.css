@@ -1,0 +1,41 @@
+img.topo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer{
+  background: #800000;
+  color: #FFF;
+  text-align: center;
+  position: relative;
+  min-height: 100%;
+}
+
+form {
+    /*Centralizar form na página*/
+    margin: 0 auto;
+    width: 400px;
+}
+
+label{
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  color: #FFF;
+}
+
+/*Efeito de alternar cores, linhas pares*/
+tr:nth-child(even) {
+    background-color: #FF0000;
+}
+
+/*Efeito de alternar cores, linhas ímpares*/
+tr:nth-child(odd) {
+    background-color: #800000;
+}
